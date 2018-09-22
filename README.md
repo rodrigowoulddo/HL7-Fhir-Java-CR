@@ -1,6 +1,10 @@
 # HL7-Fhir-Java-CR
 Java desktop application with HL7 v3 (using FHIR) CRUD example.
 
+* **Platform:** Desktop
+* **Aplication Language:** Portuguese (BR)
+* **Code Language:** Portuguese (BR)
+
 Developed by:
 [@rodrigowoulddo](https://github.com/rodrigowoulddo)
 [@mariliarosa4](https://github.com/mariliarosa4)
