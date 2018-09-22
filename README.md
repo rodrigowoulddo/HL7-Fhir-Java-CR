@@ -1,15 +1,15 @@
 # HL7-Fhir-Java-CR
 Java desktop application with HL7 v3 (using FHIR) CRUD example.
 
-* **Platform:** Desktop
-* **Aplication Language:** Portuguese (BR)
-* **Code Language:** Portuguese (BR)
-
 Developed by:
 [@rodrigowoulddo](https://github.com/rodrigowoulddo)
 [@mariliarosa4](https://github.com/mariliarosa4)
 [@gabrielfleal](https://github.com/gabrielfleal)
 [@gabrielafg](https://github.com/gabrielafg)
+
+* **Platform:** Desktop
+* **Aplication Language:** Portuguese (BR)
+* **Code Language:** Portuguese (BR)
 
 The main purpose of this code is to exeplify the use of the API [HAPI](http://hapifhir.io/) for Java on a simple insert and search application, using HL7 FHIR messages, made for desktop.
 
