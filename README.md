@@ -1,4 +1,4 @@
-# HL7-Fhir-Java-CR
+# HL7 Fhir Java Demo
 Java desktop application with HL7 v3 (using FHIR) CRUD example.
 
 Developed by:
